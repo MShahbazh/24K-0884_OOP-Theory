@@ -1,9 +1,3 @@
-/* 
-Name: Muhammad Shahbaz Hassan
-Roll Number: 24K-0884
-Class: BCS_2C
-*/
-
 #include<iostream>
 using namespace std;
 
