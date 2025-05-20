@@ -1,9 +1,3 @@
-/* 
-    Name: Muhammad Shahbaz Hassan
-    Roll Number: 24K-0884
-    Class: BCS-2C
-*/
-
 #include<iostream>
 #include<vector>
 #include<fstream>
